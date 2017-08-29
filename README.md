@@ -7,7 +7,7 @@ The example is hosted on **Glitch**
 
 **Example usage:**
 
-https://abrupt-bestseller.me/api/whoami
+https://abrupt-bestseller.glitch.me/api/whoami
 
 **Example output:**
 
